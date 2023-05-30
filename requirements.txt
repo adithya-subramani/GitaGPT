@@ -3,3 +3,6 @@ langchain
 torch
 chromadb
 sentence-transformers
+gradio
+SpeechRecognition
+gtts
